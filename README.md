@@ -3,6 +3,6 @@
 This repository contains coursework and related projects.
 
 ## Projects
-- [BEE-POS](https://github.com/Amansharmacs1/BEE-POS)
-- [Template Monster](https://github.com/Amansharmacs1/template-monster)
-- [Worklens](https://github.com/Amansharmacs1/worklens)
+- [BEE-POS](https://github.com/Amansharmacs1/POS-Billing-System-BEE)
+- [Template Monster](https://github.com/Amansharmacs1/templatemonster-clone-BEE)
+- [Worklens](https://github.com/Amansharmacs1/WorkLens--BEE)
